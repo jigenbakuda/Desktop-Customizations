@@ -18,6 +18,11 @@ https://github.com/oswriter/bl-howtos/blob/master/01-how-i-configured-my-bunsenl
 
 ________________________
 
+If setting up on a raspberry pi
+http://www.bristolwatch.com/rpi/index.htm
+
+________________________
+
 
 Fonts
 
@@ -169,6 +174,10 @@ Abiword
 gedit
 calculator
 dmenu
+clipit
+nitrogen
+conky
+transmission-gtk (torrents)
 
 
 List of Japanese Computer Menu Terms
