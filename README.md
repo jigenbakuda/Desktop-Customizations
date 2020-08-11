@@ -146,7 +146,7 @@ rcfile = grey.rc
 
 Required Installations
 
-Ibus and Anthy(Japanese) for typing in Japanese
+Ibus and Ibus-Anthy(Japanese) for typing in Japanese
 Tor Broswer
 firefox
 chromium
@@ -154,12 +154,11 @@ uzbl browser
 Gimp
 vlc
 cmus - C-music (terminal music player
-moc - Music on Console  (terminal music player)
 clementine
 Audacity
 K3b
 Audacity
-Jackqtl
+Qjackctl
 rosegarden
 amsynth
 qsynth
